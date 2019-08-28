@@ -1,0 +1,19 @@
+{
+  "name": "xfz_front",
+  "version": "1.0.0",
+  "description": "小饭桌1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYiXi/xfz_django.git"
+  },
+  "author": "AYiXi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AYiXi/xfz_django/issues"
+  },
+  "homepage": "https://github.com/AYiXi/xfz_django#readme"
+}
